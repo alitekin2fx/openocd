@@ -16,6 +16,7 @@ arm_dirs = \
 	flash/kinetis_ke \
 	flash/max32xxx \
 	flash/xmc1xxx \
+	flash/xmc4xxx \
 	debug/xscale
 
 arm:
